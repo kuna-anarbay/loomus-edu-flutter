@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304003122421",
+    "firebase_url": "https://zoolu-app-default-rtdb.firebaseio.com",
+    "project_id": "zoolu-app",
+    "storage_bucket": "zoolu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304003122421:android:ffca09e512f418a5de31bc",
+        "android_client_info": {
+          "package_name": "io.loomus.loomus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304003122421-kp8lpm3vip3quf5qkg1441p74glil12c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9DzioghySzusfkuWmH0M2hgjDUQFWpys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304003122421-kp8lpm3vip3quf5qkg1441p74glil12c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304003122421-17fkntup1nmlnb8vbcl8b0b0issclb10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.loomus.loomusApp",
+                "app_store_id": "1642807376"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>304003122421-17fkntup1nmlnb8vbcl8b0b0issclb10.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.304003122421-17fkntup1nmlnb8vbcl8b0b0issclb10</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>304003122421-5qivkfvl01nrtftqlfjodo59f0slctee.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmU7rAJ_1fp93poPHxIXgbA0wLop3o-7A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304003122421</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.loomus.loomusApp</string>
+	<key>PROJECT_ID</key>
+	<string>zoolu-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zoolu-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304003122421:ios:2fe39708c5cf138ede31bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://zoolu-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
